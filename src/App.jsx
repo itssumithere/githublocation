@@ -98,35 +98,35 @@ function App() {
             <span className="hidden sm:inline text-white font-bold text-2xl select-none">LocationGit</span>
           </Link>
           <nav className="flex items-center font-Hublot">
-            <ul className="flex space-x-2 sm:space-x-4 text-gray-300 font-bold select-none">
+            <ul className="flex space-x-1 sm:space-x-4 text-gray-300 font-bold select-none">
               <li>
                 <Link to="/" className="px-2 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
                   Home
                 </Link>
               </li>
               <li>
-                <Link to="/Search" className="px-2 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
+                <Link to="/Search" className="px-1 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
                   Search
                 </Link>
               </li>
               <li>
-                <Link to="/About" className="px-2 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
+                <Link to="/About" className="px-1 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
                   About
                 </Link>
               </li>
               <li>
-                <Link to="/SignIn" className="px-2 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
+                <Link to="/SignIn" className="px-1 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
                   SignIn
                 </Link>
               </li>
               <li>
-                <Link to="/terms" className="px-2 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
+                <Link to="/terms" className="px-1 sm:px-4 py-2 block font-bold text-white transition duration-150 ease-in-out hover:text-gray-300">
                   Terms
                 </Link>
               </li>
 
               
-               <Link to="https://github.com/nydv23" className="px-2 sm:px-4 py-2 block font-bold text-white login-button">
+               <Link to="https://github.com/nydv23" className="px-1 sm:px-4 py-2 block font-bold text-white login-button">
                   Github 
                 </Link>
             </ul>
